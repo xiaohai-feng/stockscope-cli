@@ -1,0 +1,12 @@
+# 默认忽略全部内容
+*
+
+# 保留当前目录下的 .gitignore 自身
+!.gitignore
+
+# 仅放开公开 README 和 skills
+!README.md
+!docs/
+!docs/**
+!skills/
+!skills/**
